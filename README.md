@@ -2,8 +2,6 @@
 
 The backend server for **Altru**, a community-driven platform empowering individuals and local organizations across Bangladesh to create, discover, join, and track impactful social service events (such as winter clothes drives, blanket distribution, tree plantations, cleanups, medical camps, and food relief).
 
-- **Live Server URL:** https://altru-server.onrender.com (or local `http://localhost:5000`)
-- **Client App URL:** https://altru-community.vercel.app (or local `http://localhost:3000`)
 
 ---
 
