@@ -100,3 +100,4 @@ The server will start listening at `http://localhost:5000`.
 
 ## 📜 License
 This project is open-source under the MIT License.
+
